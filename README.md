@@ -38,7 +38,7 @@ A clean analytics-ready fact table is built with one row per order item.
 - Ensured no row duplication and validated joins
 - Stored processed data as Parquet for efficient analytics
 
-## Analysis Performed
+### Analysis Performed
 - Monthly Business Performance
 - Revenue, orders, AOV by month
 - Excluded early ramp-up months with very low order volume
