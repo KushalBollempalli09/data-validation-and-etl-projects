@@ -67,3 +67,4 @@ A clean analytics-ready fact table is built with one row per order item.
 - Python (Pandas)
 - Jupyter Notebook (Anaconda)
 - Parquet for analytics storage
+- Key KPIs are implemented in reusable SQL under the sql/ folder and executed using DuckDB against the Parquet fact table
