@@ -38,6 +38,11 @@ A clean analytics-ready fact table is built with one row per order item.
 - Ensured no row duplication and validated joins
 - Stored processed data as Parquet for efficient analytics
 
+# How to run
+-  Create environment and install dependencies: pip install -r requirements.txt
+-  Run notebooks in order: 01 → 02 → 03 → 04
+-  SQL KPIs are in sql/ and executed via DuckDB in 04_sql_kpis_in_duckdb.ipynb
+
 ### Analysis Performed
 - Monthly Business Performance
 - Revenue, orders, AOV by month
