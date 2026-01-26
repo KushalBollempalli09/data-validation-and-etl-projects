@@ -1,4 +1,4 @@
-# Ignore raw and processed data
+# Ignore all data
 data/
 
 # Jupyter checkpoints
@@ -10,3 +10,4 @@ __pycache__/
 
 # macOS system files
 .DS_Store
+
