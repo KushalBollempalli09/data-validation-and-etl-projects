@@ -1,0 +1,12 @@
+# Ignore raw and processed data
+data/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
